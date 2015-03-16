@@ -437,7 +437,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			   <article style="position: absolute; width:64%; opacity: 0;"> 
 				   	
 					<div class="cont span_2_of_3">
-						    <h4>客户留言一</h1>
+						    <h4>What Clients Say</h1>
 							<p>Lorem ipsum is simply dummy text of the printing and typesetting industry.Lorem ipsum has been the printing and typesetting industry's standard dummy text ever since the 500,s when an unknown printer took a gellery of type.</p>
 						  	<span><a href="#">John Dove</a></span>
 						 
@@ -445,14 +445,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				</article>
 				 <article style="position: absolute; width:64%; opacity: 0;"> 
 				   	<div class="cont span_2_of_3">
-						    <h4>客户留言二</h4>
+						    <h4>What Clients Say</h4>
 						    <p>Lorem ipsum is simply dummy text of the printing and typesetting industry.Lorem ipsum has been the printing and typesetting industry's standard dummy text ever since the 500,s when an unknown printer took a gellery of type.</p>
 						   <span><a href="#">John Dove</a></span>
 					</div>
 				 </article>
 				 <article style="position: absolute; width:64%; opacity: 0;"> 
 				   	<div class="cont span_2_of_3">
-						    <h4>客户留言三</h4>
+						    <h4>What Clients Say</h4>
 						    <p>Lorem ipsum is simply dummy text of the printing and typesetting industry.Lorem ipsum has been the printing and typesetting industry's standard dummy text ever since the 500,s when an unknown printer took a gellery of type.</p>
 						    <span><a href="#">John Dove</a></span>
 					</div>
